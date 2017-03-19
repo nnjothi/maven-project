@@ -1,5 +1,5 @@
-/*
-** Pkg name
+/**
+* Pkg name
 */
 package com.example;
 
